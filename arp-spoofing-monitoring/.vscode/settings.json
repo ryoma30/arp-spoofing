@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "packet.h": "c",
+        "ethernet.h": "c",
+        "if_ether.h": "c",
+        "arpspoofdetector.h": "c",
+        "pcap.h": "c",
+        "if_arp.h": "c",
+        "arppacketanalysis.h": "c",
+        "inet.h": "c",
+        "ioctl.h": "c",
+        "if.h": "c",
+        "stdio.h": "c",
+        "packetanalysis.h": "c",
+        "ip.h": "c",
+        "sendtrapicmp.h": "c",
+        "libiptc.h": "c",
+        "ipt_kernel_headers.h": "c",
+        "xtcshared.h": "c",
+        "ip_tables.h": "c",
+        "string.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
